@@ -1,2 +1,2 @@
-# TIM_ComplAI_UoD
-Product Management Project at University of Dundee
+# Product Management Project at University of Dundee
+This poject was a part of Technology Innovation Management Module. In this project, we crafted an in-depth analysis on the debut of ComplAI, an AI-enhanced tool designed to streamline regulatory compliance for small fintech businesses.	We conducted market research and engaged with industry-specific product managers to gather authoritative insights.
